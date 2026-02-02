@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159.45791" height="88.87837" viewBox="0 0 159.45791 88.87837">
+  <defs>
+    <linearGradient x1="206.86" y1="164.24" x2="206.86" y2="187.13" gradientUnits="userSpaceOnUse" id="color-1">
+      <stop offset="0" stop-color="#666" stop-opacity="0"></stop>
+      <stop offset="1" stop-color="#666"></stop>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-160.27,-133.59)">
+    <path d="M315.979,137.339v81.378h-151.958v-81.378z" fill="#333" stroke="#333" stroke-width="7.5" stroke-linejoin="round"></path>
+    <path d="M166.357,193.675v-54h81v54z" fill="#cdbeb2" stroke="#666" stroke-width="3" stroke-linejoin="round"></path>
+    <text transform="translate(181.90,210.86) scale(0.34)" font-size="40" fill="#fff" font-family="Sans Serif">
+      <tspan dy="0">XXX,XXXG</tspan>
+    </text>
+    <text transform="translate(269.59,149.55) scale(0.34)" font-size="40" fill="#eee" font-family="Sans Serif">
+      <tspan dy="0">X,XXXG</tspan>
+    </text>
+    <text transform="translate(269.59,165.82) scale(0.34)" font-size="40" fill="#eee" font-family="Sans Serif">
+      <tspan dy="0">X,XXXG</tspan>
+    </text>
+    <text transform="translate(269.59,182.10) scale(0.34)" font-size="40" fill="#eee" font-family="Sans Serif">
+      <tspan dy="0">XX%</tspan>
+    </text>
+    <text transform="translate(269.59,198.37) scale(0.34)" font-size="40" fill="#eee" font-family="Sans Serif">
+      <tspan dy="0">-XX</tspan>
+    </text>
+    <text transform="translate(269.59,214.65) scale(0.34)" font-size="40" fill="#eee" font-family="Sans Serif">
+      <tspan dy="0">-XX</tspan>
+    </text>
+    <path d="M262.01,176.48l-2.94,3.10l-2.94,-3.10" fill="none" stroke="#eee" stroke-width="6" stroke-linecap="round"></path>
+    <path d="M166.36,193.68v-29.43h81v29.43z" fill="url(#color-1)"></path>
+    <text transform="translate(167.86,188.49) scale(0.31)" font-size="40" fill="#fff" font-family="Sans Serif">
+      <tspan dy="0">template</tspan>
+    </text>
+    <path d="M261.44,188.20c0.48,-0.44 0.70,-0.30 0.50,0.32l-1.30,4.04c-0.20,0.63 0.14,1.29 0.76,1.49l0.48,0.15c0.62,0.20 0.74,0.72 0.26,1.16l-5.41,5.03c-0.48,0.44 -0.70,0.30 -0.50,-0.32l1.30,-4.04c0.20,-0.63 -0.14,-1.29 -0.76,-1.49l-0.47,-0.15c-0.62,-0.20 -0.73,-0.72 -0.26,-1.16zM255.08,212.70c0,-2.21 3.99,-8.24 3.99,-8.24s3.99,6.03 3.99,8.24c0,2.21 -1.79,3.99 -3.99,3.99s-3.99,-1.79 -3.99,-3.99z" fill="#eee" stroke="#eee" stroke-width="1"></path>
+    <path d="M167.79,208.25l-1.43,-3.59l8.61,-3.43l1.43,3.59zM263.75,146.65l-0.06,4.76l-1.41,-0.50l-0.83,-2.66l-2.34,1.54l-4.72,-1.67l2.95,-3.73z" fill="#fff" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+    <path d="M174.41,212.36l-2.32,-5.82M260.55,145.52l2.12,-5.98" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"></path>
+    <path d="M260.17,157.17c0.05,-0.03 0.13,-0.02 0.14,0.05l0.41,1.69s1.01,0.74 1.31,1.26c0.51,0.87 0.52,1.58 0.52,1.58s1.12,0.33 1.31,1.23c0.19,0.90 -0.51,2.60 -3.47,3.19c-2.97,0.58 -5.35,-0.22 -6.47,-2.02c-1.12,-1.80 0.65,-3.95 0.55,-3.82l-0.33,-2.83c-0.02,-0.06 0.06,-0.11 0.13,-0.08l1.91,1.25s0.71,-0.27 1.45,-0.30c0.44,-0.03 0.82,0 1.18,0.06z" fill="#eee" stroke="#eee" stroke-width="1"></path>
+    <path d="M265.41,161.98c-0.74,0.60 -1.88,0.62 -1.88,0.62M265.21,163.75c-0.99,0.08 -1.61,-0.22 -1.61,-0.22M252.74,161.93s1.36,0.44 1.91,0.93M254.69,163.42c-0.68,0.27 -1.85,0.09 -1.85,0.09" fill="#fff" stroke="#eee" stroke-width="1" stroke-linecap="round"></path>
+  </g>
+</svg>
